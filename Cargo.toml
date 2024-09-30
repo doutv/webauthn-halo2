@@ -3,3 +3,8 @@ members = [
     "halo2-circuits",
     "proving-server"
 ]
+resolver = "2"
+
+# [patch.crates-io]
+# ahash = "=0.8.4"
+# colored = "=0.2.0"
